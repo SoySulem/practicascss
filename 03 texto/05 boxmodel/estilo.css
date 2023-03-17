@@ -29,6 +29,7 @@ div{
 #caja1{
     box-shadow: 0px 0px 50px  white;
     border-radius: 140% 50%  50% 100%;
+
 }
 #caja2{
     box-shadow: 0px 0px 36px  red;
@@ -50,11 +51,13 @@ div{
     box-shadow: 10px 40px 50px green;
     border-radius: 190% 90% 750% 370%;
 }
-#caja7{ 
+#caja7:hover{ 
     margin:50px 400px 320px 710px ;
     background: lawngreen;
     border: 100px groove navy;
-    
+    transform: scale(1.1);
+    transform: rotate(1080deg);
+    transition: 1s all ease;
 }
 #caja9{
     margin:20px 100px 30px 40px ;
