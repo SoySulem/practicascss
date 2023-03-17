@@ -50,10 +50,11 @@ div{
     box-shadow: 10px 40px 50px green;
     border-radius: 190% 90% 750% 370%;
 }
-#caja7{
+#caja7{ 
     margin:50px 400px 320px 710px ;
     background: lawngreen;
     border: 100px groove navy;
+    
 }
 #caja9{
     margin:20px 100px 30px 40px ;
